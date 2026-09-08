@@ -1,6 +1,10 @@
-# 📥 How to fish BsProject (Multi Hack)
+<div align="center">
+ 
+ # 📥 How to fish BsProject (Multi Hack)
+
 
 <div align="center">
+<img width="392" height="220" alt="preview" src="https://github.com/user-attachments/assets/6d3c7675-0379-4e9f-ada2-741f5e7db580" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue.svg)]()
@@ -30,10 +34,10 @@ Download the latest archive from the button above
  
 # 🖼Screenshots
  
- <img width="689" height="638" alt="изображение" src="https://github.com/user-attachments/assets/6ecbc8b8-aee8-4b45-96bb-547d6057dd72" />
- <img width="686" height="633" alt="изображение" src="https://github.com/user-attachments/assets/efa0fc54-15bd-47d2-86b6-559f4f4411bf" />
-<img width="684" height="635" alt="изображение" src="https://github.com/user-attachments/assets/19664bbe-bca7-42aa-b43a-d9d0f11c29ac" />
-<img width="688" height="638" alt="изображение" src="https://github.com/user-attachments/assets/e50050e3-352c-410c-81e6-f2aa6563d5ab" />
+ <img width="689" height="638" alt="preview1" src="https://github.com/user-attachments/assets/6ecbc8b8-aee8-4b45-96bb-547d6057dd72" />
+ <img width="686" height="633" alt="preview2" src="https://github.com/user-attachments/assets/efa0fc54-15bd-47d2-86b6-559f4f4411bf" />
+<img width="684" height="635" alt="preview3" src="https://github.com/user-attachments/assets/19664bbe-bca7-42aa-b43a-d9d0f11c29ac" />
+<img width="688" height="638" alt="preview4" src="https://github.com/user-attachments/assets/e50050e3-352c-410c-81e6-f2aa6563d5ab" />
 
 # ⚒️Features
 ### Silent Aim:
